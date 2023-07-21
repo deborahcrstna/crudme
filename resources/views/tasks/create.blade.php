@@ -1,4 +1,3 @@
-<!-- resources/views/tasks/create.blade.php -->
 <h1>Adicionar Tarefa</h1>
 
 <form method="post" action="{{ route('tasks.store') }}">

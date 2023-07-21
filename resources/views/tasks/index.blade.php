@@ -1,4 +1,3 @@
-<!-- resources/views/tasks/index.blade.php -->
 <h1>Lista de Tarefas</h1>
 
 <a href="{{ route('tasks.create') }}">Adicionar Tarefa</a>

@@ -1,4 +1,3 @@
-<!-- resources/views/tasks/edit.blade.php -->
 <h1>Editar Tarefa</h1>
 
 <form method="post" action="{{ route('tasks.update', $task->id) }}">
